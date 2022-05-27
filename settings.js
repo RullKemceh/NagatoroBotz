@@ -18,19 +18,19 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
+global.owner = ['6285859047172','6285859047172','6285859047172']
+global.ownernomer = '6285859047172'
+global.premium = ['6285859047172']
+global.ownername = 'Rlyz'
+global.botname = 'NagatoroBotz'
+global.footer = 'NagatoroBotz'
+global.email = 'whatssap@gmail.com'
+global.ig = 'https://instagram.com'
 global.region = 'Planet China'
 
 // Keperluan buttons
-global.myweb = 'https://api-riych.herokuapp.com/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.myweb = 'https://nekopoi.com'
+global.sc = 'https://github.com'
 
 // Wm
 global.packname = 'Keyolbot-Md'
